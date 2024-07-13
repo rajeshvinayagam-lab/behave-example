@@ -1,0 +1,5 @@
+[
+    {"username": "valid_user", "password": "valid_password", "message": "Homepage"},
+    {"username": "invalid_user", "password": "invalid_password", "message": "Invalid username or password."},
+    {"username": "locked_user", "password": "locked_password", "message": "Your account is locked."}
+]
